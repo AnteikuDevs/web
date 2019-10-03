@@ -1,5 +1,4 @@
 ## Selamat Datang Di Website Anteiku
-# Title / Repository Name
 
 ![img](logo.png)
 ## About / Synopsis
