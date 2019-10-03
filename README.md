@@ -1,4 +1,4 @@
-[Image]('logo.png')
+![img](logo.png)
 ## Selamat Datang Di Website Anteiku
 
 You can use the [editor on GitHub](https://github.com/AnteikuDevs/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
