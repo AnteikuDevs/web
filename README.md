@@ -1,4 +1,7 @@
 ![img](logo.png)
+:height: 100px
+   :width: 200 px
+   :scale: 50 %
 ## Selamat Datang Di Website Anteiku
 
 You can use the [editor on GitHub](https://github.com/AnteikuDevs/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
