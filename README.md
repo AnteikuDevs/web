@@ -1,4 +1,6 @@
+<p align="center">
 ## Selamat Datang Di Website Anteiku
+</p>
 
 ![img](logo.png)
 
