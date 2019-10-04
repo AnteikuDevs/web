@@ -1,6 +1,4 @@
 <p align="center">
-  
-![img](logo.png)
 
 <img src="logo.png">
 
