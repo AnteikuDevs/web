@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="logo.png" width="200">
+<img src="logo.png" width="500">
 
 <h1>Selamat Datang Di Website Anteiku</h1>
 
