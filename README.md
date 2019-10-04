@@ -1,7 +1,8 @@
 <p align="center">
-## Selamat Datang Di Website Anteiku
-</p>
+<h1>selamat Datang Di Website Anteiku</h1>
 
 ![img](logo.png)
 
-## Follow github saya agar saya lebih semangat dalam membuat project
+<h2>Follow github saya agar saya lebih semangat dalam membuat project</h2>
+
+</p>
